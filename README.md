@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./mobile/src/assets/LogoExManager3.png">
+  <img src="./mobile/src/assets/LogoREADME.png">
 </h1>
 
 <p align="center">
