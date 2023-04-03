@@ -20,17 +20,16 @@
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- `Frontend` 
-      ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-      ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<h3>Frontend<h3>
+         ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+         ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
- - `Backend` 
-      ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<h3>Backend<h3>
+         ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
- - `Mobile` 
-      ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-      ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-           
+<h3>Mobile<h3>
+         ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+         ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 - `Ferramentas` ![VSCode](https://img.shields.io/badge/-VSCode-05122A?&logo=Visual%20Studio%20Code&logoColor=007ACC)
               
@@ -42,8 +41,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Você pode visualizar o layout básico do projeto através [desse link](https://www.figma.com/file/HhqD02XrBa095S21muQ6Ho/Ex-Manager?node-id=0-1&t=eOTbDJZgXxGV6DFl-0). Lembrando que não é necessário ter uma conta no Figma para acessá-lo.
 
 
-<!-- CONTATOS -->
-## ✉️ Contatos
+<!-- CONTATO -->
+## ✉️ Contato
 [![Linkedin](https://img.shields.io/badge/-Linkedln-0A66C2?&logo=Linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/matheus-meneses-messias-13bb73186/)&nbsp;
 
 ---
