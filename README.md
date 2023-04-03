@@ -1,8 +1,6 @@
 <h1 align="center">
-  Ex Manager
+  <img src="./mobile/src/assets/LogoExManager3.png">
 </h1>
-
-![alt text](./mobile/src/assets/LogoExManager3.png)
 
 <p align="center">
   <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
