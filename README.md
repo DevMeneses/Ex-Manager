@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./mobile/src/assets/LogoREADME.png">
+  <img src="./mobile/src/assets/LogoExManager3.png">
 </h1>
 
 <p align="center">
@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
    ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
         
- - `Mobile` .png
+ - `Mobile` 
  
    ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
    ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
