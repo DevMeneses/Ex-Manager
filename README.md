@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  Projeto desenvolvido e atrelado com a disciplina de "Projeto Prático de Construção de Sistemas Computacionais" da UNINOVE onde o Professor Orientador é o Thiago G. Trau. O mesmo tem por seu objetivo ser um local onde os clientes desta rede de Estacionamentos possam realizar suas reservas e garantir a segurança do seu veículo. 
+  Projeto desenvolvido e atrelado com a disciplina de "Projeto Prático de Construção de Sistemas Computacionais" da UNINOVE onde o Professor Orientador é o Thiago G. Trau. O mesmo tem por seu objetivo ser um sistema de gerenciamento de estabelecimentos (resturantes/bares). 
 </p>
 
 <br/>
