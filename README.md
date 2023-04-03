@@ -1,5 +1,5 @@
 <h1 align="center">
-    Ex Manager
+    EX MANAGER
 </h1>
 
 <p align="center">
@@ -28,13 +28,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  - `Back-End` 
           
    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+   ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
         
  - `Mobile` 
  
    ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
    ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
            
-- `Ferramentas` ![VSCode](https://img.shields.io/badge/-VSCode-05122A?&logo=Visual%20Studio%20Code&logoColor=007ACC)
+- `Ferramentas` 
+
+   ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+   ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
               
 - `Versionamento` ![Git](https://img.shields.io/badge/-Git-05122A?&logo=git)
                   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?&logo=github)
