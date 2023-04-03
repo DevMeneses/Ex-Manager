@@ -20,17 +20,17 @@
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-<h3>Frontend<h3>
-         ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-         ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- `Front-End` 
+          ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+          ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<h3>Backend<h3>
-         ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+ - `Back-End` 
+          ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h3>Mobile<h3>
-         ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-         ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
+ - `Mobile` 
+          ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+          ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+           
 - `Ferramentas` ![VSCode](https://img.shields.io/badge/-VSCode-05122A?&logo=Visual%20Studio%20Code&logoColor=007ACC)
               
 - `Versionamento` ![Git](https://img.shields.io/badge/-Git-05122A?&logo=git)
